@@ -1,4 +1,9 @@
 # UEFI Tutorials
+
+NOTE : This redirect is the build instructions for the UEFI-Tuts github repo.  
+https://github.com/ThatOSDev/UEFI-Tuts  
+
+
 ## Manipulating the Disk Image
 When we develop an EFI binary, we will need to have a way of feeding it to an emulator for it to boot from. One good way
 of doing this is to create a disk image with appropriate partitioning and file systems, and configure the emulator to
